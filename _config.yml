@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Aviator
-description: Jekyll template for API documentation.
+title: iCixin
+description: 慈心華德福高中資訊社會與網路課程.
 url: https://example.com
 google_analytics_key:
 
@@ -20,7 +20,7 @@ gems:
 exclude:
   - readme.md
   - LICENCE
-  
+
 defaults:
   -
     scope:
