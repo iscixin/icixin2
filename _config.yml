@@ -3,7 +3,8 @@
 
 title: iCixin
 description: 慈心華德高中資訊社會與網路課程.
-url: http://iscixin.github.io/icixin
+url: http://iscixin.github.io
+baseurl: /icixin
 google_analytics_key:
 
 collections:
@@ -28,7 +29,7 @@ defaults:
     values:
       layout: default
 
-baseurl: /icixin
+
 # -----
 # Build
 
