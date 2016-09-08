@@ -2,7 +2,8 @@ name: Alpha
 description: Alphs template for Jekyll
 baseurl: '/icixin'
 
-url: "http://localhost:4000"
+# url: "http://localhost:4000"
+url: "http://iscixin.github.io"
 
 paginate: 10
 
