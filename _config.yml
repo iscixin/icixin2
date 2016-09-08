@@ -1,9 +1,14 @@
 # ----
 # Site
 
-title: Scholar
-description: Jekyll template for product documentation.
-url: https://example.com
+title: iCixin
+description: 慈心華德福C11資訊網路與社會.
+
+# url: http://localhost:4000
+
+url: https://iscixin.github.io
+baseurl: /icixin
+
 google_analytics_key:
 show_full_navigation: true
 
