@@ -2,7 +2,7 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
 
 
-/* 
+/*
     ok
 	Alpha by HTML5 UP
 	html5up.net | @n33co
@@ -1224,7 +1224,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("../images/banner.png");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
