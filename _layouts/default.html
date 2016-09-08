@@ -31,12 +31,12 @@
 	<body>
 		<header>
 			<h1>
-				<a href="/"><img src="/images/emblem.svg" width="40" height="40" alt="{{ site.title }} logo"></a>
+				<a href="/"><img src="{{ site.baseurl }}/images/emblem.svg" width="40" height="40" alt="{{ site.title }} logo"></a>
 				{{ site.title }}
 				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
 
-			<form action="/search/" method="get">
+			<form action="{{ site.baseurl }}/search/" method="get">
 				<input type="text" name="q" id="search-input" placeholder="Search">
 				<input type="submit" value="Search" style="display: none;">
 			</form>
@@ -45,7 +45,7 @@
 				<ul>
 					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
-						<a href="/">{{ home.title }}</a>
+						<a href="{{ site.baseurl }}">{{ home.title }}</a>
 					</li>
 				</ul>
 
