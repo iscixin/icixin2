@@ -431,7 +431,7 @@ hr {
 }
 
 header {
-	$emblem-size: 35px;
+	$emblem-size: 40px;
 	$emblem-vertical-padding: ($nav-header-height - $emblem-size) / 2;
 	$emblem-horizontal-padding: $space;
 	max-height: 100vh;
@@ -462,7 +462,7 @@ header {
 
 		img {
 			height: $emblem-size;
-			width: $emblem-size;
+			width: auto;
 			margin-right: $space - 5;
 		}
 	}
