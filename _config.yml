@@ -1,41 +1,8 @@
-# ----
-# Site
+name: Alpha
+description: Alphs template for Jekyll
+baseurl: '/Alpha-Jekyll-Theme'
 
-title: iCixin
-description: 慈心華德高中資訊社會與網路課程.
-url: http://iscixin.github.io
-baseurl: /icixin
-# baseurl: ''
-google_analytics_key:
+url: "http://localhost:4000"
 
-collections:
-  documentation:
-    title: Documentation
-    position: 1
-  api:
-    title: APIs
-    position: 2
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+paginate: 10
 
-exclude:
-  - readme.md
-  - LICENCE
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
-
-
-# -----
-# Build
-
-
-# -----------
-# CloudCannon
-
-version: 3.0.3
