@@ -1,5 +1,5 @@
 ---
-title: 遊戲與人生
+title: 遊戲與人生第二週
 category: Section1
 order: 2
 ---
