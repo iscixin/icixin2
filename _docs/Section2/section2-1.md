@@ -23,9 +23,9 @@ Logo的原型來自另一個計算機語言LISP，派普特修改了LISP的語�
 Logo是一種直譯語言，和其它的語言不同，它內置一套海龜繪圖（Turtle Graphics）系統，通過向海龜發送命令，用戶可以直觀地學習程序的運行過程，因此它很適合於兒童學習。它亦適合作數學教學。
 
 Logo繼承了Lisp的「表」的概念，所以在函數處理等方面擁有強大的能力，因此Logo不僅是初學者學習程序設計的良藥，更是有特殊需求計算機科學家的助手。
-
-From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 ```
+From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
+
 ![](http://media.tumblr.com/tumblr_m43bakRVSb1rpx08t.png)
 ![](http://www.annehelmond.nl/wordpress/wp-content/uploads/2007/11/logo_mit.png)
 
