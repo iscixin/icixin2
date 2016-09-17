@@ -1,7 +1,7 @@
 ---
 title: 遊戲與人生
 category: Section1
-order: 0
+order: 2
 ---
 
 ```
@@ -9,8 +9,6 @@ order: 0
 
 教師 吉米言
 ```
-
----
 
 遊戲有攻略，那麼人生有嗎？
 
