@@ -11,6 +11,8 @@ order: 0
 
 ![](/icixin/images/lessons/section2-1.png)
 
+---
+
 ## My Childhood
 
 ### About Logo Language
@@ -32,3 +34,8 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 ### Some Links
 + [Brain Harvey](https://people.eecs.berkeley.edu/~bh/)
 + [Play Online](http://www.calormen.com/jslogo/)
+
+---
+
+## 文字繪圖與 ASCII
+![](/icixin/images/lessons/section2-2.png)
