@@ -18,7 +18,7 @@ sitemap: false
 						"id": "{{ item.url | slugify }}",
 						"title": "{{ item.title | xml_escape }}",
 						"category": "{{ collection.title | xml_escape }}",
-						"url": " {{ item.url | xml_escape }}",
+						"url": " {{ site.baseurl }}/{{ item.url | xml_escape }}",
 						"content": {{ item.content | strip_html | replace_regex: "[\s/\n]+"," " | strip | jsonify }}
 					}
 
