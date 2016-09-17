@@ -1,5 +1,6 @@
 ---
 title: 資訊社會與網路
+comments: true
 ---
 
 ## 我對這堂課的期待
