@@ -1,8 +1,6 @@
 ---
-title: Welcome
+title: 資訊社會與網路
 ---
-
-## 資訊社會與網路
 
 ### 我對這堂課的期待
 
@@ -35,4 +33,8 @@ title: Welcome
 + 資訊裝置的演變與 IoT 的世界
 + Linux/Unix-like System 簡介與操作
 + 消失的國界與資訊安全
+
+---
+
+<iframe src="https://docs.google.com/presentation/d/1CMw1ZKZaibewV-NfbeWsrV5yLVHa4SkwGwtWkaXi_oc/embed?start=false&loop=false&delayms=0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
