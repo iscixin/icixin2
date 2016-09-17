@@ -9,6 +9,7 @@ order: 2
 
 教師 吉米言
 ```
+![](/icixin/images/lessons/section1-2.jpg)
 
 遊戲有攻略，那麼人生有嗎？
 
