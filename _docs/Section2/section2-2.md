@@ -15,3 +15,5 @@ Internet，這個因冷戰而生的現代科技産兒，和許多其他20世紀�
 
 卡斯特，2001a 網路社會的崛起
 ```
+
+[](http://mewbies.com/acute_terminal_fun_telnet_public_servers_watch_star_wars_play_games_etc.htm)
