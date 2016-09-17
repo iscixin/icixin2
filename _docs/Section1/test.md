@@ -4,12 +4,11 @@ category: Section1
 order: 0
 ---
 
-# 備課筆記
 ```
 如果人生是一場遊戲，有無數個回合，那麼我們應該學會的是如何駕馭它，而不是被它駕馭。
-```
 
 教師 吉米言
+```
 
 ---
 
@@ -27,12 +26,14 @@ order: 0
 + 簡單到困難，黏著度
 
 + 心理學，馬斯洛
-![Basic Human Needs](/images/lessons/section1-1.jpg)
+
+![Basic Human Needs](/icixin/images/lessons/section1-1.jpg)
 
 + 從攻略談分享與樂於助人的文化。
 + 如果學習也是一場遊戲，你們會怎麼一起征服它？
 
 ---
 
-玩遊戲學程式
+### 玩遊戲學程式
+
 + [CodeCompat](https://codecombat.com/)
