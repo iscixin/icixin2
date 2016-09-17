@@ -44,3 +44,6 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 
 ## Well, Text Online Game: MUD
 + Multi User Dungeon
+
+![](/icixin/images/lessons/section2-3.png)
+
