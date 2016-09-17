@@ -2,43 +2,37 @@
 title: Welcome
 ---
 
-This is the **Scholar** template from [CloudCannon](http://cloudcannon.com/).
-**Scholar** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+## 資訊社會與網路
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+### 我對這堂課的期待
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
-
----
-
-### Getting Started
-
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
++ 解構資訊社會虛擬與現實的邊界，讓資訊時代的華德福孩子懂得將自身所學，引領未來世界的變革。
++ 真實看見外在環境的挑戰，帶領孩子了解資訊產業的工作甘苦，並邀請實務講座分享如何籌辦新事業。
++ 期許孩子利用所習得的資訊學習能力，能更有效率的進行各種科目的學習。
 
 ---
 
-### Features
+### 你們應該長這樣
 
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
++ 辨識問題，自覓解決方案。
++ 主動積極，願意改造世界。
++ 分工合作，主動協助他人。
 
 ---
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+### 2016 秋冬菜單
+
+#### 秋
++ 遊戲與人生
++ 網際網路的過去與未來
++ 資訊產業的美麗與哀愁
++ 線上學習好？不好？
++ 網路化的社會
+
+#### 冬
++ 社群的虛擬與真實
++ 新創產業的行銷與策略
++ 資訊裝置的演變與 IoT 的世界
++ Linux/Unix-like System 簡介與操作
++ 消失的國界與資訊安全
+
