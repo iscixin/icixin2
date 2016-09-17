@@ -26,13 +26,13 @@ order: 0
 + 賞與罰
 + 簡單到困難，黏著度
 
-心理學，馬斯洛
++ 心理學，馬斯洛
+![Basic Human Needs](/images/lessons/section1-1.jpg)
 
-從攻略談分享與樂於助人的文化。
-
-如果學習也是一場遊戲，你們會怎麼一起征服它？
++ 從攻略談分享與樂於助人的文化。
++ 如果學習也是一場遊戲，你們會怎麼一起征服它？
 
 ---
 
 玩遊戲學程式
-(CodeCompat)[https://codecombat.com/]
++ [CodeCompat](https://codecombat.com/)
