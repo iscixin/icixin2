@@ -45,6 +45,7 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 
 ## 文字繪圖與 ASCII
 ![](/icixin/images/lessons/section2-2.png)
+
 + ASCII, American Standard Code for Information Interchange, [美國資訊交換標準代碼](https://zh.wikipedia.org/wiki/ASCII)
 + [來看 ASCII 電影？](telnet://towel.blinkenlights.nl)
 + [Angel and me](https://drive.google.com/open?id=0B-lDh0kSkeUxeG94SDNRQ2traVU)
