@@ -101,6 +101,7 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 ### Speed, bps
 + bit
 + Byte
++ [List of countries by Internet connection speeds](https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds)
 
 ### HyperText, HTTP
 + 超文本
