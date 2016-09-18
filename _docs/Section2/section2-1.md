@@ -77,7 +77,7 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 ## 常見名詞
 + World Wide Web, HTTP, 1989
 + E-Mail, SMTP, POP3, IMAP
-+ DNS
++ DNS, Domain Name System
 + FTP
 + P2P
 + VoIP
@@ -90,11 +90,13 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 ### URL
 + http://www.yahoo.com.tw
 + http://www.google.com
-+ nslookup
 
 ### DNS
 + www.gov.tw
++ www.ilc.edu.tw
++ www.nccu.edu.tw
 + cixin.schl.tw
++ nslookup, whois
 
 ### Speed, bps
 + bit
@@ -104,5 +106,7 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 + 超文本
 + [World Wide Web Proposal 1989, Tim Berners-Lee](https://www.w3.org/History/1989/proposal.html)
 + HTML
+
+---
 
 Next Week, We write some HTML page using pure text editor.
