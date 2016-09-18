@@ -4,6 +4,11 @@ category: Section2
 order: 0
 ---
 
+### History
+Internet，這個因冷戰而生的現代科技産兒，和許多其他20世紀的偉大科學發明一樣最初也是被用於軍事目的的。1969年底，當一批美國科學家在國防部的贊助下把加州大學、猶他大學和斯坦福研究院的四台電腦按照分組交換的原理連成一個網路的時候，那些創建全球第一個網路的科學家也許並沒有想到今天的國際互聯網，更不會想到它將改變整個世界。而現在，網路正日益成爲人們日常生活中不可或缺的一部分，人們可以在網上購物、交友、聊天、遊戲甚至發展網路戀情等等。
+
+---
+
 ## 純文字的年代
 + 網路速度
 + 傳輸方式
@@ -39,11 +44,39 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 
 ## 文字繪圖與 ASCII
 ![](/icixin/images/lessons/section2-2.png)
+[來看 ASCII 電影？](telnet towel.blinkenlights.nl)
+
+## 文字的傳播 Gopher, 1991
+![](http://s7.computerhistory.org/is/image/CHM/500004863-03-01?$re-medium$)
+[gophersite](gopher://port70.net/1chan)
 
 ---
 
-## Well, Text Online Game: MUD
-+ Multi User Dungeon
+## HeyHey, Text Online Game: MUD
++ Multi User Dungeon, 泥巴
 
 ![](/icixin/images/lessons/section2-3.png)
 
+---
+
+## something you can enjoy when only text, but some disappear
+[FUN ON THE TERMINAL](http://mewbies.com/acute_terminal_fun_telnet_public_servers_watch_star_wars_play_games_etc.htm)
+
+---
+
+## 課堂活動
++ 你用網路做些什麼？
+
+
+---
+
+## 常見名詞
++ World Wide Web, HTTP, 1989
++ Mail, SMTP, POP3
++ FTP
++ P2P
++ VoIP
++ Video Streaming
+
+### HyperText
+超文本
