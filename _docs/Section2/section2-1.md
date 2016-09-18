@@ -45,6 +45,7 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 ## 文字繪圖與 ASCII
 ![](/icixin/images/lessons/section2-2.png)
 [來看 ASCII 電影？](telnet://towel.blinkenlights.nl)
+[Angel and me](https://drive.google.com/open?id=0B-lDh0kSkeUxeG94SDNRQ2traVU)
 
 ## 文字的傳播 Gopher, 1991
 ![](http://s7.computerhistory.org/is/image/CHM/500004863-03-01?$re-medium$)
@@ -77,6 +78,8 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 + P2P
 + VoIP
 + Video Streaming
++ IPv4, IPv6
 
 ### HyperText
-超文本
++ 超文本
++ [World Wide Web Proposal 1989](https://www.w3.org/History/1989/proposal.html)
