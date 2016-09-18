@@ -5,7 +5,7 @@ order: 0
 ---
 
 ### History
-Internet，這個因冷戰而生的現代科技産兒，和許多其他20世紀的偉大科學發明一樣最初也是被用於軍事目的。1969年底，當一批美國科學家在國防部的贊助下把加州大學、猶他大學和斯坦福研究院的四台電腦按照分組交換的原理連成一個網路的時候，那些創建全球第一個網路的科學家也許並沒有想到今天的國際互聯網，更不會想到它將改變整個世界。
+Internet，這個因冷戰而生的產物，和許多其他20世紀的偉大科學發明一樣最初也是被用於軍事目的。1969年底，當一批美國科學家在國防部的贊助下把加州大學、猶他大學和斯坦福研究院的四台電腦按照分組交換的原理連成一個網路時，當時的科學家們應該猜想不到這將改變整個世界。
 
 ---
 
@@ -45,8 +45,9 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 
 ## 文字繪圖與 ASCII
 ![](/icixin/images/lessons/section2-2.png)
-[來看 ASCII 電影？](telnet://towel.blinkenlights.nl)
-[Angel and me](https://drive.google.com/open?id=0B-lDh0kSkeUxeG94SDNRQ2traVU)
++ ASCII, American Standard Code for Information Interchange, [美國資訊交換標準代碼](https://zh.wikipedia.org/wiki/ASCII)
++ [來看 ASCII 電影？](telnet://towel.blinkenlights.nl)
++ [Angel and me](https://drive.google.com/open?id=0B-lDh0kSkeUxeG94SDNRQ2traVU)
 
 ## 文字的傳播 Gopher, 1991
 ![](http://s7.computerhistory.org/is/image/CHM/500004863-03-01?$re-medium$)
@@ -67,7 +68,7 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 ---
 
 ## 課堂活動
-+ 你用網路做些什麼？
++ 除了遊戲，你用網路做些什麼？
 
 
 ---
