@@ -44,7 +44,7 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 
 ## 文字繪圖與 ASCII
 ![](/icixin/images/lessons/section2-2.png)
-[來看 ASCII 電影？](telnet towel.blinkenlights.nl)
+[來看 ASCII 電影？](telnet://towel.blinkenlights.nl)
 
 ## 文字的傳播 Gopher, 1991
 ![](http://s7.computerhistory.org/is/image/CHM/500004863-03-01?$re-medium$)
