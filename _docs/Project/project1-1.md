@@ -1,6 +1,6 @@
 ---
 title: 學生專題暫記
-category: Project
+category: Student Project
 order: 0
 ---
 
@@ -17,6 +17,7 @@ order: 0
 
 ## 悠立
 Youtube 影片語法隱藏功能
+
 > 學習與工作
 
 
@@ -24,6 +25,7 @@ Youtube 影片語法隱藏功能
 網路無國界(連結)
 獵殺潘朵拉
 AI
+
 > 學習與工作
 
 ## 秀丰
