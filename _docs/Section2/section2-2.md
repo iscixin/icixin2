@@ -18,9 +18,14 @@ order: 1
 ## 趨勢
 
 + 人口老化
-![](/icixin/images/lessons/section2-4.png)
+![](/icixin/images/lessons/section2-6.gif)
 + 人工智慧
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MFQ-ooM4550" frameborder="0" allowfullscreen></iframe>
+
 + 人與團體
+	- 發起議題
+	- 協作分享
+	- [HackPad](https://g0v.hackpad.com/)
 
 探索潛在需求，透過網路實現。
 
