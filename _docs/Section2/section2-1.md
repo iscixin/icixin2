@@ -113,28 +113,3 @@ From: [Logo語言](https://zh.wikipedia.org/wiki/Logo%E8%AF%AD%E8%A8%80)
 Next Week, We write some HTML page using pure text editor.
 
 
-
----
-
-## 承康
-遊戲或網站的型式
-
-### 可能方向
-1. 東方捲軸遊戲(三大邪教)二次創作對於真實生活帶來的影響
-2. 策略遊戲對現實操作的影響(戰爭型)，讀書之後的應用
-3. 巴哈姆特網站經營策略
-
-> 大綱
-
-## 悠立
-Youtube 影片語法隱藏功能
-> 學習與工作
-
-
-## 旭鴻
-網路無國界(連結)
-獵殺潘朵拉
-AI
-> 學習與工作
-
-## 秀丰

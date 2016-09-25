@@ -24,6 +24,9 @@ order: 1
 
 探索潛在需求，透過網路實現。
 
+### 網路未來 5000 天
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eCHkjFJ4hJ4?list=PL6661FF1871FDD4CB" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 ## 實體裝置與網路服務
