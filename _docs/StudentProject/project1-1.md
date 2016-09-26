@@ -2,6 +2,7 @@
 title: 學生專題暫記
 category: Student Project
 order: 0
+comment: true
 ---
 
 # 分組名單
