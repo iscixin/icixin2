@@ -46,6 +46,7 @@ comments: true
 	- 愛玩 = 優秀
 	- Why 工具人？
 	<br />![](http://i.imgur.com/wDtjiOO.png)
+	<br />[{其實這是一款桌遊}](http://www.1111.com.tw/zone/ncku/discussTopic.asp?id=82886)
 
 ---
 
@@ -57,7 +58,7 @@ comments: true
 	- 不要害怕英文文件！
 + 規劃
 	- 功能
-	- 
+	- 目標對象
 + 實作
 	- 模型
 	- 階段目標
