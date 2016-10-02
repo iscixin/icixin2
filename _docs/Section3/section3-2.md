@@ -24,8 +24,9 @@ comments: true
 + 當然 Google 可以找得到
 + 但要注意版本
 + 時間趕要記得站在巨人的肩膀上
-+ 永遠要以官方文件為本
 	- [SDK of the LINE Messaging API for PHP](https://github.com/line/line-bot-sdk-php)
+	- [A RiveScript interpreter for PHP](https://github.com/vulcan-project/rivescript-php)
++ 永遠要以官方最新文件為本
 	- [LINE Developers Documents](https://developers.line.me/)
 
 ---
