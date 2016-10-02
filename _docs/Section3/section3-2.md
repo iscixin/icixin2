@@ -19,6 +19,12 @@ comments: false
 + 當然 Google 可以找得到
 + 但要注意版本
 + 永遠要以官方文件為本
++ 時間趕要記得站在巨人的肩膀上
+
+
+[SDK of the LINE Messaging API for PHP](https://github.com/line/line-bot-sdk-php)
+
+[LINE Developers Documents](https://developers.line.me/)
 
 ---
 
