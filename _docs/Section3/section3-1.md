@@ -55,7 +55,7 @@ comments: true
 + 規劃
 + 實作
 
-[Sample: CixinSchl LineBot](icixin/Section3/section3-2/)
+[{Sample: CixinSchl LineBot}](icixin/Section3/section3-2/)
 
 ---
 
