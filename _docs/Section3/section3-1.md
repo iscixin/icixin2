@@ -2,6 +2,7 @@
 title: 資訊產業的美麗與哀愁第一週
 category: Section3
 order: 0
+comments: true
 ---
 
 ---
@@ -48,6 +49,14 @@ order: 0
 ---
 
 # 把想法實現
+
++ 點子
++ 文件
++ 規劃
++ 實作
+
+請重視 Dead Line !!!
+![](http://images-cdn.9gag.com/photo/6818802_700b_v3.jpg)
 
 ---
 
