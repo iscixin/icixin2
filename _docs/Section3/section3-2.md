@@ -24,4 +24,5 @@ comments: false
 
 # 實作
 
-![WakaTime Log](/icixin/images/lessons/section3-1.png)
++ 我花的時間
+  <br />![WakaTime Log](/icixin/images/lessons/section3-1.png)
