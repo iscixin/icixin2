@@ -44,3 +44,14 @@ order: 0
 	- Coder Code
 	- Why 工具人？
 	<br />![](http://i.imgur.com/wDtjiOO.png)
+
+---
+
+# 把想法實現
+
+---
+
+# 分組專題準備時間
++ 歡迎詢問
++ 拜託 Email 大綱給我
++ 我的 Email: [jimmyyen55[at]gmail[dot]com](mailto:jimmyyen55@gmail.com)
