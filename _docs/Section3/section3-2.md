@@ -35,7 +35,7 @@ comments: true
 
 + 聰明一點, 可以幫忙查資料
 + 給我們學校的老師和學生用
-+ 找測試員
++ 必須在 10/03 搞定 v1.0 版
 
 ---
 
@@ -47,6 +47,7 @@ comments: true
   <br />![WakaTime Log](/icixin/images/lessons/section3-1.png)
 + 先寫一些簡單的說明
   <br />![其實寫文件跟寫程式時間差不多](/icixin/images/lessons/section3-2.png)
++ 找測試員
 
 ---
 
