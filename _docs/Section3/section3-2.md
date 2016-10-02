@@ -41,11 +41,20 @@ comments: true
 
 # 實作
 
++ 就像堆積木、玩拼圖、技能樹的概念
+  <br />![](http://gameprogrammingpatterns.com/images/bytecode-ast.png)
 + 我花的時間
   <br />![WakaTime Log](/icixin/images/lessons/section3-1.png)
-+ 還是得寫一些說明
++ 先寫一些簡單的說明
   <br />![其實寫文件跟寫程式時間差不多](/icixin/images/lessons/section3-2.png)
+
+---
+
+# 再規劃
+
++ 觀察使用者紀錄
 + 修正再修正，規劃再規劃的循環
+  <br />![](http://toragames.com/wp-content/uploads/2014/05/architecture-cycle-750x400.png)
   <br />![](http://1.bp.blogspot.com/-4F6DOrk9YPg/VKqZu3BvvFI/AAAAAAAAAj8/xYcWcb6V6N4/s1600/iceberg.jpg)
   - 先告訴我為什麼冰山浮在水面上只有 1/10
   - 保留之後續聊「系統思考」
