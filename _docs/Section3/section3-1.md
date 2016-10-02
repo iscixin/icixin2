@@ -1,5 +1,5 @@
 ---
-title: 資訊產業的美麗與哀愁第一週
+title: (資訊|科技|新創|*)產業的美麗與哀愁第一週
 category: Section3
 order: 0
 ---
@@ -17,3 +17,14 @@ order: 0
 + [從英美以及韓國文創產業來看，台灣還只是停留在「用文化做生意」？](https://www.thenewslens.com/article/15943)
 + [台灣文創的產業路在何方](http://artmagazine.com.tw/ArtCritic/article951.html)
 + [把小創新變成大生意](https://www.hbrtaiwan.com/article_content_AR0003367.html)
+
+---
+
+# 你的創意真的是創意還是無知？
+# 別人用過的點子就不能用了嗎？
+
+---
+
+# 角色地圖
++ PM, Project Manager, Product Manager
+[新創公司中的兩種 PM：Project Manager vs Product Manager](https://blog.upn.com.tw/2015/09/26/%E6%96%B0%E5%89%B5%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%9A%84%E5%85%A9%E7%A8%AE-pm%EF%BC%9Aproject-manager-vs-product-manager/)
