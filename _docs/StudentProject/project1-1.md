@@ -86,5 +86,5 @@ AI
 ## 信件檔案
 
 ### 承康
-<iframe src="/icixin/files/c11_27.pdf"></iframe>
+<iframe width="100%" src="/icixin/files/c11_27.pdf" border="0"></iframe>
 
