@@ -43,6 +43,7 @@ comments: true
 
 + Engineer, 工程師, 工具人？
 	- Coder Code
+	- 愛玩 = 優秀
 	- Why 工具人？
 	<br />![](http://i.imgur.com/wDtjiOO.png)
 
