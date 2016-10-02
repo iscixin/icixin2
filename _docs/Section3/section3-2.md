@@ -7,6 +7,7 @@ comments: false
 
 
 ![](https://qr-official.line.me/sid/L/xqa1397d.png)
+<br />靜香 v1.0
 
 
 ---
