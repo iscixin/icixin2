@@ -38,4 +38,5 @@ order: 0
 	- 設計：設想，計劃
 
 ![](http://cdn.inside.com.tw/wp-content/uploads/2013/07/1.png)
+
 [{View}](http://www.inside.com.tw/2013/07/10/5-things-designers-wish-their-clients-from-hell-knew)
