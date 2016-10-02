@@ -11,5 +11,5 @@ comments: true
 
 ### 承康
 <iframe width="100%" src="/icixin/files/c11_27.pdf" border="0" height="200"></iframe>
-
+[open](/icixin/files/c11_27.pdf)
 ---
