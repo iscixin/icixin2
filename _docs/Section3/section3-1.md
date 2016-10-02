@@ -52,9 +52,19 @@ comments: true
 # 把想法實現
 
 + 點子
+	- 老闆說...
 + 文件
+	- 不要害怕英文文件！
 + 規劃
+	- 功能
+	- 
 + 實作
+	- 模型
+	- 階段目標
+	- Go!
++ 再規劃
+	- 使用者回饋
+	- 自己的 Bug 自己抓
 
 [{Sample: CixinSchl LineBot}](/icixin/Section3/section3-2/)
 
