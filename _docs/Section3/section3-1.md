@@ -9,3 +9,6 @@ order: 0
 ### 這些詞什麼意思？
 
 ---
+
+## 看看
++ https://flipboard.com/@spring0517/startup-g52ubru6z
