@@ -5,6 +5,10 @@ order: 1
 comments: false
 ---
 
+
+![](https://qr-official.line.me/sid/L/xqa1397d.png)
+
+
 ---
 
 # 點子
