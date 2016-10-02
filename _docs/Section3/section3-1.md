@@ -55,7 +55,11 @@ comments: true
 + 規劃
 + 實作
 
+[Sample: CixinSchl LineBot](icixin/Section3/section3-2/)
+---
+
 ## Everything has a timestamp !!!
+
 請重視 Dead Line !!!
 ![](http://images-cdn.9gag.com/photo/6818802_700b_v3.jpg)
 
@@ -65,3 +69,4 @@ comments: true
 + 歡迎詢問
 + 拜託 Email 大綱給我
 + 我的 Email: [jimmyyen55[at]gmail[dot]com](mailto:jimmyyen55@gmail.com)
++ Everything has a timestamp!
