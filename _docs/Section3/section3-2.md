@@ -48,3 +48,4 @@ comments: true
 + 修正再修正，規劃再規劃的循環
   <br />![](http://1.bp.blogspot.com/-4F6DOrk9YPg/VKqZu3BvvFI/AAAAAAAAAj8/xYcWcb6V6N4/s1600/iceberg.jpg)
   - 先告訴我為什麼冰山浮在水面上只有 1/10
+  - 其他下週續聊
