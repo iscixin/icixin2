@@ -4,6 +4,8 @@ category: Section3
 order: 0
 ---
 
+---
+
 ## 創意？創新？創造？創業？文創？
 
 ### 這些詞什麼意思？
@@ -11,4 +13,4 @@ order: 0
 ---
 
 ## 看看
-+ https://flipboard.com/@spring0517/startup-g52ubru6z
++ (https://flipboard.com/@spring0517/startup-g52ubru6z)
