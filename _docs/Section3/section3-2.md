@@ -45,3 +45,4 @@ comments: true
   <br />![WakaTime Log](/icixin/images/lessons/section3-1.png)
 + 還是得寫一些說明
   <br />![其實寫文件跟寫程式時間差不多](/icixin/images/lessons/section3-2.png)
++ 修正再修正，規劃再規劃的循環
