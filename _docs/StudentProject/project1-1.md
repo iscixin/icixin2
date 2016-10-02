@@ -81,10 +81,5 @@ AI
 
 > APP, 如果可以上架就上架
 
----
 
-## 信件檔案
-
-### 承康
-<iframe width="100%" src="/icixin/files/c11_27.pdf" border="0"></iframe>
 
