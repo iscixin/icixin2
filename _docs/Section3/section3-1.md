@@ -32,9 +32,10 @@ order: 0
 
 # 角色地圖
 + PM, Project Manager, Product Manager
-- [新創公司中的兩種 PM：Project Manager vs Product Manager](https://blog.upn.com.tw/2015/09/26/%E6%96%B0%E5%89%B5%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%9A%84%E5%85%A9%E7%A8%AE-pm%EF%BC%9Aproject-manager-vs-product-manager/)
+	- [新創公司中的兩種 PM：Project Manager vs Product Manager](https://blog.upn.com.tw/2015/09/26/%E6%96%B0%E5%89%B5%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%9A%84%E5%85%A9%E7%A8%AE-pm%EF%BC%9Aproject-manager-vs-product-manager/)
 
 + Designer
-- 設計：設想，計劃
-- ![](http://cdn.inside.com.tw/wp-content/uploads/2013/07/1.png)
-- [{View}](http://www.inside.com.tw/2013/07/10/5-things-designers-wish-their-clients-from-hell-knew)
+	- 設計：設想，計劃
+
+![](http://cdn.inside.com.tw/wp-content/uploads/2013/07/1.png)
+[{View}](http://www.inside.com.tw/2013/07/10/5-things-designers-wish-their-clients-from-hell-knew)
