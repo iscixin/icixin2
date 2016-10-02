@@ -55,6 +55,7 @@ comments: true
 + 規劃
 + 實作
 
+Everything has a timestamp !!!
 請重視 Dead Line !!!
 ![](http://images-cdn.9gag.com/photo/6818802_700b_v3.jpg)
 
