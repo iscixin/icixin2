@@ -14,3 +14,23 @@ comments: true
 [{View}](/icixin/files/c11_27.pdf)
 
 ---
+
+### 成安
+
++ 為何線上購物盛行
++ 由來
++ 趨勢 多盛行
++ 相較實體購物 線上購物的利弊
+	- 利
+	- 弊
+
++ Q for classmates:Why we trust online shopping?
++ Our viewpoint:   貨到付款  第三方支付 大品牌&確定的身分
+
++ 訪問:
++ 評價
++ 實際物品與照片差別不能太大
+
+--- 
+
+---
