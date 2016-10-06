@@ -42,4 +42,4 @@ comments: true
 ---
 
 <div class="github-widget" data-username="surbhioberoi"></div>
-<script src="bower_components/github-card/dist/widget.js"></script>
+<script src="bower_components/github-widget/dist/widget.js"></script>
