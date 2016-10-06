@@ -62,6 +62,5 @@ comments: true
 
 ---
 
-# Repo
+# GitHub Repo
 <div class="github-card" data-user="iscixin" data-repo="LaravelBot"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>

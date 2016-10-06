@@ -42,4 +42,3 @@ comments: true
 ---
 
 <div class="github-widget" data-username="iscixin"></div>
-<script src="bower_components/github-widget/dist/widget.js"></script>
