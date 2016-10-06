@@ -59,3 +59,9 @@ comments: true
   <br />![](http://1.bp.blogspot.com/-4F6DOrk9YPg/VKqZu3BvvFI/AAAAAAAAAj8/xYcWcb6V6N4/s1600/iceberg.jpg)
   - 先告訴我為什麼冰山浮在水面上只有 1/10
   - 保留之後續聊「系統思考」
+
+---
+
+# Repo
+<div class="github-card" data-user="iscixin" data-repo="LaravelBot"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
