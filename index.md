@@ -39,3 +39,7 @@ comments: true
 
 <iframe src="https://docs.google.com/presentation/d/1CMw1ZKZaibewV-NfbeWsrV5yLVHa4SkwGwtWkaXi_oc/embed?start=false&loop=false&delayms=0" frameborder="0" width="100%" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+---
+
+<div class="github-widget" data-username="surbhioberoi"></div>
+<script src="bower_components/github-card/dist/widget.js"></script>
