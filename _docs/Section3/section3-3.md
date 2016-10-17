@@ -30,7 +30,6 @@ comments: true
 
 + 申請 smail
 + Slack 平台介紹
-+ 填寫後期中等教育追蹤資料庫
 + 分組報告討論時間
 
 ---
