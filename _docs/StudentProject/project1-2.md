@@ -10,8 +10,7 @@ comments: true
 ---
 
 ### 承康
-<iframe width="100%" src="/icixin/files/c11_27.pdf" border="0" height="400"></iframe>
-[{View}](/icixin/files/c11_27.pdf)
+[{下載 PDF}](/icixin/files/c11_27.pdf)
 
 ---
 
