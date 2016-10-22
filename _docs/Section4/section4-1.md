@@ -13,13 +13,14 @@ order: 0
 ---
 
 # Google Classroom
+[Google Classroom](https://classroom.google.com)
 ![Google Classroom](/icixin/images/lessons/section4-3.png)
 
 # Code Studio
 [Code Studio](https://studio.code.org/)
 ![Code Studio](/icixin/images/lessons/section4-2.png)
 
-[HourOfCode](http://hocintw.thealliance.org.tw/29518212372796321205.html)
+[Hour Of Code in Taiwan](http://hocintw.thealliance.org.tw/29518212372796321205.html)
 ![hocintw](/icixin/images/lessons/section4-4.png)
 
 # Slack
