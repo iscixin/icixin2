@@ -1,5 +1,5 @@
 ---
-title: 網路化的社會第一週
+title: 網路化的社會
 category: Section5
 order: 0
 ---

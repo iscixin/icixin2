@@ -41,4 +41,4 @@ comments: true
 
 ---
 
-<div class="github-widget" data-username="iscixin"></div>
+<div class="github-card" data-user="lepture"></div>
