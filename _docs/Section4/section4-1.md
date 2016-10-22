@@ -19,7 +19,7 @@ order: 0
 [Code Studio](https://studio.code.org/)
 ![Code Studio](/icixin/images/lessons/section4-2.png)
 
-[hocintw](http://hocintw.thealliance.org.tw/29518212372796321205.html)
+[HourOfCode](http://hocintw.thealliance.org.tw/29518212372796321205.html)
 ![hocintw](/icixin/images/lessons/section4-4.png)
 
 # Slack
