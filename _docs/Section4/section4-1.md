@@ -11,3 +11,19 @@ order: 0
 ![Trello平台與Slack平台的整合](/icixin/images/lessons/section4-1.png)
 
 ---
+
+# Google Classroom
+![Google Classroom](/icixin/images/lessons/section4-3.png)
+
+# Code Studio
+[Code Studio](https://studio.code.org/)
+![Code Studio](/icixin/images/lessons/section4-2.png)
+
+[hocintw](http://hocintw.thealliance.org.tw/29518212372796321205.html)
+![hocintw](/icixin/images/lessons/section4-4.png)
+
+# Slack
+![qrcode](/icixin/images/lessons/slack_cixin.png)
+
+# Mattermost
+![qrcode](/icixin/images/lessons/mattermost_cixin.png)
