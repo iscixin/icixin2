@@ -1,5 +1,6 @@
 _site
 *.DS_Store
+desktop.ini
 .sass-cache/*
 .sass-cache/Icon
 Icon
