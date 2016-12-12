@@ -11,5 +11,8 @@ order: 0
 
 ## 心智圖的應用
 
-Mindomo
+### Mindomo
 ![快樂e學院-->Mindomo](/icixin/images/lessons/mindomo.png)
+
+### Example
+![我的人生目標](/icixin/images/lessons/goalofmylife.png)
