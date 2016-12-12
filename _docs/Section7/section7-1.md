@@ -34,6 +34,8 @@ order: 0
 + 在心智圖上尋找，發現關連。
 + 為次級主題建立次級中心。
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/oYuBYBU2lHc?list=PLXcl1Gvx2pAtE5_Th4J33ypO5uYL72rmT" frameborder="0" allowfullscreen></iframe>
+
 ### Mindomo
 [![快樂e學院-->Mindomo](/icixin/images/lessons/mindomo.png)](http://std.ilc.edu.tw/)
 
