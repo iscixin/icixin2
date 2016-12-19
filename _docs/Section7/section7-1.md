@@ -45,7 +45,7 @@ order: 0
 ![我的人生目標](/icixin/images/lessons/goalofmylife.png)
 
 ---
-## 心智圖分享
+# 心智圖分享
 
 「我的人生目標」
 ![Share](/icixin/images/lessons/section7-1.png)
