@@ -24,7 +24,9 @@ order: 2
 + 賞與罰
 + 簡單到困難，黏著度
 
-+ 心理學，馬斯洛
+---
+
+### 心理學，馬斯洛
 
 ![Basic Human Needs](/icixin/images/lessons/section1-1.jpg)
 
