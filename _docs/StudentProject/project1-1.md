@@ -1,5 +1,5 @@
 ---
-title: 學生專題暫記
+title: 學生專題分組
 category: Student Project
 order: 0
 comments: true
@@ -14,6 +14,11 @@ comments: true
 5. 鄭翔, 怡伸, 芷妍
 6. 揚婷, 悠立, 呂昂
 7. 旭鴻, 育叡
+
+## 報告時間：
++ 2016/12/26：A, B, C
++ 2017/01/02：D, E
++ 2017/01/09：F, G
 
 ---
 
