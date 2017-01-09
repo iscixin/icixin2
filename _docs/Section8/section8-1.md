@@ -71,6 +71,9 @@ JavaScript Object Notation
 ![Ballr Json](/icixin/images/lessons/ballr-json.png)
 
 ## R lang 自學資源
-+ [](https://blog.gtwang.org/programming/r/)
-+ [](http://blog.infographics.tw/2016/04/interactive-r-with-shiny/)
-
++ [GTWang: R 教學](https://blog.gtwang.org/programming/r/)
++ [R 也能互動！用 Shiny 與 R 語言將你的數據變成互動圖表](http://blog.infographics.tw/2016/04/interactive-r-with-shiny/)
++ [The R Project for Statistical Computing](https://www.r-project.org/)
++ [RStudio IDE](https://www.rstudio.com/)
++ [Shiny by RStudio](https://shiny.rstudio.com/)
++ [R Basic](https://joe11051105.gitbooks.io/r_basic/content/)
