@@ -65,7 +65,7 @@ JavaScript Object Notation
 ![Ballr](/icixin/images/lessons/ballr.png)
 ![Ballr Json](/icixin/images/lessons/ballr-json.png)
 
-##R lang 自學資源
+## R lang 自學資源
 + [](https://blog.gtwang.org/programming/r/)
 + [](http://blog.infographics.tw/2016/04/interactive-r-with-shiny/)
 
