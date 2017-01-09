@@ -49,6 +49,9 @@ order: 0
    </product>
 </catalog>
 ```
+
+---
+
 ## JSON
 JavaScript Object Notation
 
@@ -58,6 +61,8 @@ JavaScript Object Notation
  "score":80
 }
 ```
+
+---
 
 ### Ballr (Written in R lang)
 
