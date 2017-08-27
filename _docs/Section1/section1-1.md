@@ -71,3 +71,11 @@ comments: true
 請重視 Dead Line !!!
 ![](http://images-cdn.9gag.com/photo/6818802_700b_v3.jpg)
 
+---
+
+## 本週閱讀
+
++ [Flipboard: Startup](https://flipboard.com/@spring0517/startup-g52ubru6z)
++ [從英美以及韓國文創產業來看，台灣還只是停留在「用文化做生意」？](https://www.thenewslens.com/article/15943)
++ [台灣文創的產業路在何方](http://artmagazine.com.tw/ArtCritic/article951.html)
++ [把小創新變成大生意](https://www.hbrtaiwan.com/article_content_AR0003367.html)
