@@ -16,6 +16,10 @@ comments: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/63FDxJ5e_Ew" frameborder="0" allowfullscreen></iframe>
 
+- [Google Home vs. Amazon Echo](http://thewirecutter.com/reviews/amazon-echo-vs-google-home/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kDl34XmlsdU" frameborder="0" allowfullscreen></iframe>
+- [Apple HomePod](https://www.apple.com/homepod/)
+
 ---
 
 ![](https://qr-official.line.me/sid/L/xqa1397d.png)
