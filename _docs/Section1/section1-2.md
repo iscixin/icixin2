@@ -5,6 +5,13 @@ order: 1
 comments: true
 ---
 
+# 淺談人工智慧
+
+- [AutoDraw by Google](https://www.autodraw.com/)
+- [First Album Composed by AI](https://futurism.com/the-worlds-first-album-composed-and-produced-by-an-ai-has-been-unveiled/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XUs6CznN8pw" frameborder="0" allowfullscreen></iframe>
+
+---
 
 ![](https://qr-official.line.me/sid/L/xqa1397d.png)
 <br />靜香 v1.0

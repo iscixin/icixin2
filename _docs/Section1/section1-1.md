@@ -15,13 +15,6 @@ comments: true
 
 ### 這些詞什麼意思？
 
----
-
-## 「拜託」本週回去看看，下週再來聊聊。
-+ [Flipboard: Startup](https://flipboard.com/@spring0517/startup-g52ubru6z)
-+ [從英美以及韓國文創產業來看，台灣還只是停留在「用文化做生意」？](https://www.thenewslens.com/article/15943)
-+ [台灣文創的產業路在何方](http://artmagazine.com.tw/ArtCritic/article951.html)
-+ [把小創新變成大生意](https://www.hbrtaiwan.com/article_content_AR0003367.html)
 
 ---
 
@@ -69,7 +62,7 @@ comments: true
 	- 使用者回饋
 	- 自己的 Bug 自己抓
 
-[{Sample: CixinSchl LineBot}](/icixin/Section3/section3-2/)
+[{Sample: CixinSchl LineBot}](/icixin/Section1/section1-2/)
 
 ---
 
@@ -78,10 +71,3 @@ comments: true
 請重視 Dead Line !!!
 ![](http://images-cdn.9gag.com/photo/6818802_700b_v3.jpg)
 
----
-
-# 分組專題準備時間
-+ 歡迎詢問
-+ 拜託 Email 大綱給我
-+ 我的 Email: [jimmyyen55[at]gmail[dot]com](mailto:jimmyyen55@gmail.com)
-+ Everything has a timestamp!
