@@ -2,12 +2,12 @@
 # Site
 
 title: iCixin
-description: 慈心華德福C11資訊網路與社會.
+description: 慈心華德福C11資訊網路與社會(106秋冬).
 
 # url: http://localhost:4000
 
 url: https://iscixin.github.io
-baseurl: /icixin
+baseurl: /icixin2
 
 google_analytics_key:
 show_full_navigation: true
