@@ -10,6 +10,11 @@ comments: true
 - [AutoDraw by Google](https://www.autodraw.com/)
 - [First Album Composed by AI](https://futurism.com/the-worlds-first-album-composed-and-produced-by-an-ai-has-been-unveiled/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XUs6CznN8pw" frameborder="0" allowfullscreen></iframe>
+- [AlphaGo](https://www.bnext.com.tw/article/38923/BN-2016-03-14-120814-178)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IgFGsWiPqXQ" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63FDxJ5e_Ew" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -19,9 +24,9 @@ comments: true
 
 ---
 
-# 點子
+# 從好玩開始
 
-+ 因為學生想做人工智慧的專題
++ 因為去年有學生想寫人工智慧的專題
 + 因為備課只是寫簡報有點無聊
 
 ---
@@ -38,11 +43,11 @@ comments: true
 
 ---
 
-# 規劃
+# 執行規劃
 
 + 聰明一點, 可以幫忙查資料
 + 給我們學校的老師和學生用
-+ 必須在 10/03 搞定 v1.0 版
++ 必須在去年 10/03 搞定 v1.0 版
 
 ---
 
@@ -64,8 +69,7 @@ comments: true
 + 修正再修正，規劃再規劃的循環
   <br />![](http://toragames.com/wp-content/uploads/2014/05/architecture-cycle-750x400.png)
   <br />![](http://1.bp.blogspot.com/-4F6DOrk9YPg/VKqZu3BvvFI/AAAAAAAAAj8/xYcWcb6V6N4/s1600/iceberg.jpg)
-  - 先告訴我為什麼冰山浮在水面上只有 1/10
-  - 保留之後續聊「系統思考」
+
 
 ---
 
