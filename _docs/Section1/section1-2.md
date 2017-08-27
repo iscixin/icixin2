@@ -1,40 +1,66 @@
 ---
-title: 遊戲與人生第二週
+title: (愛玩)LineBot 實作
 category: Section1
-order: 2
+order: 1
+comments: true
 ---
 
-```
-如果人生是一場遊戲，有無數個回合，那麼我們應該學會的是如何駕馭它，而不是被它駕馭。
 
-教師 吉米言
-```
-![](/icixin/images/lessons/section1-2.jpg)
+![](https://qr-official.line.me/sid/L/xqa1397d.png)
+<br />靜香 v1.0
 
-遊戲有攻略，那麼人生有嗎？
-
-攻略是由高手寫成。
-人生，深刻體驗過就會自然精彩。
 
 ---
 
-### 淺談遊戲設計
-+ 人性為本質
-+ 競爭與勝負
-+ 賞與罰
-+ 簡單到困難，黏著度
+# 點子
+
++ 因為學生想做人工智慧的專題
++ 因為備課只是寫簡報有點無聊
 
 ---
 
-### 心理學，馬斯洛
+# 文件
 
-![Basic Human Needs](/icixin/images/lessons/section1-1.jpg)
-
-+ 從攻略談分享與樂於助人的文化。
-+ 如果學習也是一場遊戲，你們會怎麼一起征服它？
++ 當然 Google 可以找得到
++ 但要注意版本
++ 時間趕要記得站在巨人的肩膀上
+	- [SDK of the LINE Messaging API for PHP](https://github.com/line/line-bot-sdk-php)
+	- [A RiveScript interpreter for PHP](https://github.com/vulcan-project/rivescript-php)
++ 永遠要以官方最新文件為本
+	- [LINE Developers Documents](https://developers.line.me/)
 
 ---
 
-### 玩遊戲學程式
+# 規劃
 
-+ [CodeCompat](https://codecombat.com/)
++ 聰明一點, 可以幫忙查資料
++ 給我們學校的老師和學生用
++ 必須在 10/03 搞定 v1.0 版
+
+---
+
+# 實作
+
++ 就像堆積木、玩拼圖、技能樹的概念
+  <br />![](http://gameprogrammingpatterns.com/images/bytecode-ast.png)
++ 我花的時間
+  <br />![WakaTime Log](/icixin/images/lessons/section3-1.png)
++ 先寫一些簡單的說明
+  <br />![其實寫文件跟寫程式時間差不多](/icixin/images/lessons/section3-2.png)
++ 找測試員
+
+---
+
+# 再規劃
+
++ 觀察使用者紀錄
++ 修正再修正，規劃再規劃的循環
+  <br />![](http://toragames.com/wp-content/uploads/2014/05/architecture-cycle-750x400.png)
+  <br />![](http://1.bp.blogspot.com/-4F6DOrk9YPg/VKqZu3BvvFI/AAAAAAAAAj8/xYcWcb6V6N4/s1600/iceberg.jpg)
+  - 先告訴我為什麼冰山浮在水面上只有 1/10
+  - 保留之後續聊「系統思考」
+
+---
+
+# GitHub Repo
+<div class="github-card" data-user="iscixin" data-repo="LaravelBot"></div>
