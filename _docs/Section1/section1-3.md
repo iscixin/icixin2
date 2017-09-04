@@ -13,6 +13,16 @@ comments: true
 
 # 戲法人人會變，成功能有幾人？
 
+### 賈伯斯給創業家的建議
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PTqGV29_wRQ" frameborder="0" allowfullscreen></iframe>
+
+### 「求知若渴、虛懷若愚」賈伯斯史丹佛大學演講
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqmW0ax08B8" frameborder="0" allowfullscreen></iframe>
+
+### iPhone首次问世发布会
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TFnsBliXiDk" frameborder="0" allowfullscreen></iframe>
+
+
 ---
 
 # 覺察、洞見
