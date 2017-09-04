@@ -40,4 +40,5 @@ comments: true
 # 下週預告：線上學習好？不好？
 ![Slack平台在學習上的應用](/icixin/images/lessons/section3-3.png)
 
-
+# 試玩 CodeCombat
+[CodeCombat](https://cn.codecombat.com/)
