@@ -6,10 +6,6 @@ order: 0
 
 ---
 
-# Code Studio
-[Code Studio](https://studio.code.org/)
-![Code Studio](/icixin/images/lessons/section4-2.png)
-
 # OCW (OpenCourseWare)
 + [台大](http://ocw.aca.ntu.edu.tw/ntu-ocw/)
 + [交大](http://ocw.nctu.edu.tw/)
@@ -23,3 +19,5 @@ order: 0
 # Code Learning
 + [Codecadmey](https://www.codecademy.com/)
 + [CodeMonkey](https://www.playcodemonkey.com/)
++ [Code Studio](https://studio.code.org/)
+![Code Studio](/icixin/images/lessons/section4-2.png)
